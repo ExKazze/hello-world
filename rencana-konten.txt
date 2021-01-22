@@ -2,6 +2,8 @@ bahasa programming
 - Javascript
   * ES6
   * Framework
+   - React
 - PHP
  * Laravel
 - Java
+- C++
