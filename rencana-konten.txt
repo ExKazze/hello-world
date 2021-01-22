@@ -2,9 +2,11 @@ bahasa programming
 - Javascript
   * ES6
   * Framework
-   - Angular
+   - React
    - Vue
 - PHP
  * CodeIgneter
 - Java
 - C#
+- C++
+
