@@ -1,4 +1,6 @@
 bahasa programming
 - Javascript
+  * ES6
+  * Framework
 - PHP
 - Java
