@@ -3,6 +3,7 @@ bahasa programming
   * ES6
   * Framework
    - React
+   - Vue
 - PHP
  * Laravel
 - Java
