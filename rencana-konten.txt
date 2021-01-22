@@ -3,4 +3,5 @@ bahasa programming
   * ES6
   * Framework
 - PHP
+ * Laravel
 - Java
